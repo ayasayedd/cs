@@ -1,7 +1,23 @@
-img{
-    border-radius: 10%;
-    margin-top: -150px;
+
+body {
+   
+        display: flex;   
+        justify-content: center
+      
 }
-.a1{
+form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 400px;
+}
+p
+{text-align:center;
+    font-size:;
+    max-width: 100%;
+    padding:20px;
+        margin-top: -50px
+    
 
 }
