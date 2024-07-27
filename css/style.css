@@ -2,7 +2,14 @@
 body {
    
         display: flex;   
-        justify-content: center
+        justify-content: center;
+        
+        font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+          
+            
       
 }
 form {
@@ -21,3 +28,22 @@ p
     
 
 }
+.a1 input, .a1 textarea {
+padding: 12px 20px;
+margin: 4px 0px;
+box-sizing: border-box;
+border: 3px solid  #ccc;
+}
+.a1 input :hover ,
+ .a1 textarea :hover {
+    border: 3px solid #555;
+    transition: .3s;
+ }
+ .contactus img
+ {
+background-color:#45624e ;
+padding: 5px;
+margin:0px 5px ;
+
+max-width:20px ;
+ }
